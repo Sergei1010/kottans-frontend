@@ -7,7 +7,7 @@
 - [x] 2. VCS (hello gitty), GitHub and Collaboration
 ## Front-End Basics
 ---
-- [ ] 3. Intro to HTML & CSS
+- [x] 3. Intro to HTML & CSS
 - [ ] 4. Responsive Web Design
 - [ ] 5. HTML & CSS Practice
 - [ ] 6. JavaScript Basics
@@ -47,3 +47,7 @@
 </details>
 
 ---
+
+## Intro to HTML and CSS
+* По можливості, краще використовувати селектори з меншим пріорітетом.
+* Потрібно уникати інлайн стилів та !important.
