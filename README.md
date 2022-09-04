@@ -8,7 +8,7 @@
 ## Front-End Basics
 ---
 - [x] 3. Intro to HTML & CSS
-- [ ] 4. Responsive Web Design
+- [x] 4. Responsive Web Design
 - [ ] 5. HTML & CSS Practice
 - [ ] 6. JavaScript Basics
 - [ ] 7. Document Object Model - practice
@@ -51,3 +51,19 @@
 ## Intro to HTML and CSS
 * По можливості, краще використовувати селектори з меншим пріорітетом.
 * Потрібно уникати інлайн стилів та !important.
+<details><summary>Screenshots</summary>
+<img src="/task_html_css_intro/coursera_first_week.jpg" alt="first week" title="first week">
+<img src="/task_html_css_intro/coursera_second_week.jpg" alt="second week" title="second week">
+<img src="/task_html_css_intro/learn_html.jpg" alt="learn html" title="learn html">
+<img src="/task_html_css_intro/learn_css.jpg" alt="learn css" title="learn css">
+</details>
+
+---
+
+## Responsive Web Design
+* Медіа-запити забеспечують адаптацію стилів під тип та характеристики пристрою.
+* Флекс - це сучасний інструмент верстки, який прийшов на зміну флоату.
+<details><summary>Screenshots</summary>
+<img src="/task_responsive_web_design/flexbox_froggy.jpg" alt="flexbox" title="flexbox">
+<img src="/task_responsive_web_design/grid_garden.jpg" alt="grid" title="grid">
+</details>
